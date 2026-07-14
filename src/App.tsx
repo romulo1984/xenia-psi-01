@@ -377,7 +377,7 @@ export default function App() {
                 </div>
                 
                 <h1 className="font-heading text-5xl md:text-6xl lg:text-7xl font-light text-[#3D2030] leading-[1.08] tracking-tight mb-6">
-                  Saúde Mental<br />no Trabalho é <span className="text-[#B87B7E] font-medium">Estratégico</span>.
+                  Sua Saúde Mental<br />no Trabalho é <span className="text-[#B87B7E] font-medium">Estratégico...</span>.
                 </h1>
                 
                 <p className="text-lg text-[#5A6370] leading-relaxed max-w-xl mb-10">
